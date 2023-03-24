@@ -1,4 +1,4 @@
 nltk
 numpy
 tflearn
-tensorflow==1.13.1
+tensorflow==2.11.1
